@@ -1,5 +1,5 @@
 # Origami Musica
-Origami Musica Music Player in Ruby
+### Origami Musica Music Player in Ruby.
 This program is created in Procedural Programming with Ruby. This is my project for an unit during my undergraduate period. 
 You can access reports folder to read more about the program or watch the following videos:
 
