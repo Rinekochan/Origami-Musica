@@ -1,0 +1,2225 @@
+278
+music/1989 (Deluxe Edition)/Bad Blood.mp3
+74
+0.09
+0.3
+0.8
+0.65
+0.18
+170.15
+music/1989 (Deluxe Edition)/Blank Space.mp3
+82
+0.09
+0.58
+0.68
+0.75
+0.06
+96.01
+music/1989 (Deluxe Edition)/Clean.mp3
+73
+0.23
+0.21
+0.38
+0.82
+0.03
+104
+music/1989 (Deluxe Edition)/How You Get The Girl.mp3
+69
+0.0
+0.55
+0.66
+0.77
+0.05
+120.0
+music/1989 (Deluxe Edition)/I Know The Places.mp3
+68
+0.25
+0.5
+0.76
+0.6
+0.07
+159.97
+music/1989 (Deluxe Edition)/I Wish You Would.mp3
+70
+0.02
+0.51
+0.89
+0.65
+0.05
+118.04
+music/1989 (Deluxe Edition)/Out of The Woods.mp3
+70
+0.0
+0.34
+0.84
+0.55
+0.04
+91.99
+music/1989 (Deluxe Edition)/Shake It Off.mp3
+78
+0.06
+0.94
+0.79
+0.65
+0.17
+160.02
+music/1989 (Deluxe Edition)/Style.mp3
+82
+0.0
+0.46
+0.79
+0.6
+0.04
+95.02
+music/1989 (Deluxe Edition)/This Love.mp3
+78
+0.3
+0.05
+0.49
+0.47
+0.03
+144
+music/1989 (Deluxe Edition)/Welcome to New York.mp3
+68
+0.04
+0.62
+0.63
+0.79
+0.03
+117.02
+music/1989 (Deluxe Edition)/Wildest Dreams.mp3
+75
+0.07
+0.47
+0.67
+0.55
+0.07
+140.06
+music/After Hours/After Hours.mp3
+87
+0.09
+0.14
+0.57
+0.65
+0.03
+108.95
+music/After Hours/Alone Again.mp3
+69
+0.03
+0.06
+0.65
+0.22
+0.06
+65.38
+music/After Hours/Blinding Lights.mp3
+91
+0.0
+0.33
+0.73
+0.51
+0.06
+171.01
+music/After Hours/Escape From LA.mp3
+69
+0.05
+0.17
+0.52
+0.4
+0.06
+145.74
+music/After Hours/Heartless.mp3
+85
+0.02
+0.25
+0.75
+0.54
+0.15
+170
+music/After Hours/In Your Eyes.mp3
+80
+0.0
+0.72
+0.72
+0.67
+0.03
+100.02
+music/After Hours/Repeat After Me.mp3
+65
+0.03
+0.14
+0.62
+0.56
+0.03
+95.03
+music/After Hours/Save Your Tears.mp3
+88
+0.02
+0.64
+0.83
+0.68
+0.03
+118.05
+music/After Hours/Scared To Live.mp3
+67
+0.13
+0.2
+0.5
+0.5
+0.05
+87.22
+music/After Hours/Snowchild.mp3
+67
+0.16
+0.24
+0.61
+0.55
+0.14
+148.06
+music/Daydream/Choucho Musubi - Aimer CD Quality 16-bit_44.1khz FLAC_2.mp3
+55
+0.4
+0.36
+0.5
+0.51
+0.04
+142
+music/Daydream/Closer - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+36
+0.0
+0.31
+0.93
+0.42
+0.08
+180
+music/Daydream/Falling Alone - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+33
+0.0
+0.14
+0.8
+0.57
+0.04
+120
+music/Daydream/For Lonely - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+35
+0.02
+0.28
+0.84
+0.54
+0.03
+123
+music/Daydream/Higher Ground - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+32
+0.11
+0.33
+0.74
+0.47
+0.03
+144
+music/Daydream/Hz - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+34
+0.0
+0.81
+0.93
+0.59
+0.06
+137
+music/Daydream/Insane Dream - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+38
+0.0
+0.27
+0.9
+0.41
+0.09
+120.21
+music/Daydream/Kowairo - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+31
+0.31
+0.52
+0.44
+0.38
+0.03
+73.56
+music/Daydream/Kowairo - Aimer CD Quality 16-bit_44.1khz FLAC_2.mp3
+31
+0.31
+0.52
+0.44
+0.38
+0.03
+73.56
+music/Daydream/Ninelie - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+54
+0.03
+0.21
+0.85
+0.46
+0.05
+172.06
+music/Daydream/Stars in the Rain - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+39
+0.0
+0.22
+0.72
+0.36
+0.03
+156.09
+music/Daydream/Twoface - Aimer CD Quality 16-bit_44.1khz FLAC.mp3
+36
+0.01
+0.54
+0.89
+0.4
+0.22
+183.25
+music/Deep Down/Deep down.mp3
+54
+0.24
+0.18
+0.69
+0.19
+0.05
+158
+music/Deep Down/Ivy Ivy Ivy.mp3
+43
+0.01
+0.42
+0.94
+0.53
+0.07
+134.0
+music/Deep Down/Kataomoi - From THE FIRST TAKE.mp3
+68
+0.78
+0.79
+0.53
+0.62
+0.03
+96.98
+music/Deep Down/Oaiko.mp3
+45
+0.06
+0.74
+0.72
+0.64
+0.06
+92.99
+music/Deep Down/Zankyosanka - From THE FIRST TAKE.mp3
+73
+0.0
+0.38
+0.9
+0.37
+0.09
+170.86
+music/Deep Down/rubble pile.mp3
+39
+0.24
+0.4
+0.63
+0.47
+0.03
+77.99
+music/Deep Down/wavy flow.mp3
+36
+0.01
+0.59
+0.92
+0.44
+0.05
+156.03
+music/Delirium/Ellie Goulding - Around U.mp3
+25
+0.03
+0.82
+0.86
+0.62
+0.08
+166
+music/Delirium/Ellie Goulding - Codes.mp3
+28
+0.02
+0.32
+0.7
+0.51
+0.13
+184
+music/Delirium/Ellie Goulding - Don't Need No Body.mp3
+52
+0.11
+0.56
+0.66
+0.72
+0.03
+99
+music/Delirium/Ellie Goulding - Don't Panic.mp3
+24
+0.03
+0.56
+0.82
+0.62
+0.04
+102
+music/Delirium/Ellie Goulding - Holding On For Life.mp3
+25
+0.07
+0.43
+0.74
+0.57
+0.04
+114
+music/Delirium/Ellie Goulding - Keep On Dancing.mp3
+27
+0.0
+0.16
+0.69
+0.59
+0.03
+100
+music/Delirium/Ellie Goulding - Love Me Like You Do.mp3
+75
+0.27
+0.32
+0.6
+0.49
+0.03
+95.01
+music/Delirium/Ellie Goulding - On My Mind.mp3
+68
+0.26
+0.74
+0.71
+0.7
+0.05
+154.91
+music/Delirium/Ellie Goulding - Something The Way You Move.mp3
+57
+0.04
+0.32
+0.81
+0.66
+0.05
+109
+music/Delirium/Ellie Goulding - The Greatest.mp3
+22
+0.03
+0.64
+0.64
+0.66
+0.03
+99
+music/Delirium/Ellie Goulding - We Can't Move To This.mp3
+24
+0.06
+0.7
+0.76
+0.64
+0.05
+115.03
+music/Different World/All Falls Down.mp3
+68
+0.25
+0.68
+0.67
+0.66
+0.06
+98.01
+music/Different World/Alone Pt.2.mp3
+74
+0.54
+0.63
+0.66
+0.67
+0.04
+88.01
+music/Different World/Alone.mp3
+77
+0.23
+0.18
+0.91
+0.67
+0.05
+97
+music/Different World/Darkside.mp3
+75
+0.13
+0.12
+0.61
+0.43
+0.04
+170
+music/Different World/Diamond Hearts.mp3
+61
+0.12
+0.29
+0.63
+0.48
+0.03
+90
+music/Different World/Faded.mp3
+81
+0.03
+0.16
+0.63
+0.47
+0.05
+179.64
+music/Different World/Ignite.mp3
+72
+0.02
+0.48
+0.86
+0.68
+0.12
+90.01
+music/Different World/Intro.mp3
+55
+0.86
+0.04
+0.22
+0.4
+0.04
+128
+music/Different World/Lily.mp3
+75
+0.2
+0.47
+0.63
+0.42
+0.06
+150.98
+music/Different World/Lost Control.mp3
+66
+0.03
+0.32
+0.56
+0.74
+0.08
+92.0
+music/Different World/Sing me to sleep.mp3
+65
+0.01
+0.16
+0.62
+0.47
+0.06
+176.06
+music/Different World/The Spectre.mp3
+78
+0.02
+0.2
+0.71
+0.65
+0.04
+127.96
+music/Divide/Ed Sheeran - Bibia Be Ye Ye [Official Audio].mp3
+62
+0.52
+0.88
+0.68
+0.74
+0.08
+127.07
+music/Divide/Ed Sheeran - Castle On The Hill [Official Lyric Video].mp3
+81
+0.02
+0.47
+0.83
+0.46
+0.1
+135.01
+music/Divide/Ed Sheeran - Galway Girl [Official Audio].mp3
+80
+0.07
+0.78
+0.88
+0.62
+0.1
+99.94
+music/Divide/Ed Sheeran - Hearts Don't Break Round Here [Official Audio].mp3
+63
+0.72
+0.18
+0.37
+0.6
+0.03
+105.18
+music/Divide/Ed Sheeran - How Would You Feel (Paean) [Official Audio].mp3
+67
+0.42
+0.24
+0.44
+0.62
+0.03
+140
+music/Divide/Ed Sheeran - Perfect [Official Audio].mp3
+89
+0.16
+0.17
+0.45
+0.6
+0.02
+95.05
+music/Divide/Ed Sheeran - Save Myself [Official Audio].mp3
+62
+0.85
+0.48
+0.29
+0.55
+0.04
+78.84
+music/Divide/Ed Sheeran - Shape Of You [Official Lyric Video].mp3
+88
+0.58
+0.93
+0.65
+0.83
+0.08
+95.98
+music/E-Sides/YOASOBI -Probably- Official Music Video.mp3
+68
+0.15
+0.73
+0.67
+0.75
+0.03
+90
+music/E-Sides/YOASOBI 「あの夢をなぞって・Tracing that Dream」.mp3
+53
+0.19
+0.72
+0.81
+0.55
+0.04
+180
+music/E-Sides/YOASOBI もう少しだけ.mp3
+51
+0.17
+0.67
+0.85
+0.69
+0.04
+100.0
+music/E-Sides/YOASOBI アイドル.mp3
+86
+0.11
+0.84
+0.94
+0.57
+0.09
+166
+music/E-Sides/YOASOBI 夜に駆ける.mp3
+77
+0
+0.83
+0.87
+0.66
+0.03
+130
+music/E-Sides/YOASOBI「ラブレター」.mp3
+63
+0.45
+0.69
+0.86
+0.66
+0.03
+100
+music/E-Sides/YOASOBI「祝福」.mp3
+77
+0.02
+0.54
+0.96
+0.55
+0.07
+170
+music/E-Sides (English Ver.)/YOASOBI with Midories_The Swallow (English Ver.).mp3
+53
+0.31
+0.86
+0.93
+0.75
+0.03
+105
+music/E-Sides (English Ver.)/YOASOBI_Blue(English Ver.).mp3
+53
+0.25
+0.72
+0.83
+0.73
+0.05
+135
+music/E-Sides (English Ver.)/YOASOBI_Comet(English Ver.).mp3
+53
+0.18
+0.58
+0.76
+0.75
+0.04
+90
+music/E-Sides (English Ver.)/YOASOBI_Encore (English Ver.).mp3
+52
+0.37
+0.87
+0.72
+0.69
+0.03
+82
+music/E-Sides (English Ver.)/YOASOBI_Halzion (English Ver.).mp3
+55
+0.02
+0.88
+0.92
+0.65
+0.03
+130
+music/E-Sides (English Ver.)/YOASOBI_Haruka (English Ver.).mp3
+52
+0.11
+0.83
+0.84
+0.77
+0.03
+100
+music/E-Sides (English Ver.)/YOASOBI_Just a Little Step(English Ver.).mp3
+51
+0.17
+0.67
+0.85
+0.69
+0.04
+100.0
+music/E-Sides (English Ver.)/YOASOBI_Monster (English Ver.).mp3
+55
+0.08
+0.76
+0.88
+0.6
+0.14
+170
+music/E-Sides (English Ver.)/YOASOBI_Probably(English Ver.).mp3
+68
+0.15
+0.73
+0.67
+0.75
+0.03
+90
+music/E-Sides (English Ver.)/YOASOBI_Romance (English Ver.).mp3
+58
+0.09
+0.85
+0.95
+0.64
+0.04
+130
+music/Favourite Worst Nightmare/505.mp3
+81
+0.0
+0.23
+0.85
+0.52
+0.05
+140.27
+music/Favourite Worst Nightmare/Balaclava.mp3
+55
+0.0
+0.64
+0.82
+0.42
+0.11
+137.84
+music/Favourite Worst Nightmare/Brianstorm.mp3
+63
+0.0
+0.44
+0.98
+0.42
+0.21
+165.19
+music/Favourite Worst Nightmare/Do Me a Favour.mp3
+61
+0.0
+0.64
+0.74
+0.47
+0.06
+180.13
+music/Favourite Worst Nightmare/Fluorescent Adolescent.mp3
+73
+0.0
+0.82
+0.81
+0.65
+0.03
+112.12
+music/Favourite Worst Nightmare/If You Were There, Beware.mp3
+52
+0.0
+0.22
+0.8
+0.23
+0.05
+201.1
+music/Favourite Worst Nightmare/Old Yellow Bricks.mp3
+60
+0.0
+0.75
+0.84
+0.66
+0.07
+135.16
+music/Favourite Worst Nightmare/Only Ones Who Know.mp3
+61
+0.9
+0.08
+0.41
+0.26
+0.04
+145.76
+music/Favourite Worst Nightmare/Teddy Picker.mp3
+65
+0.0
+0.8
+0.97
+0.64
+0.11
+150.22
+music/Favourite Worst Nightmare/The Bad Thing.mp3
+52
+0.0
+0.59
+0.95
+0.55
+0.07
+111.12
+music/Favourite Worst Nightmare/This House is a Circus.mp3
+52
+0.0
+0.39
+0.91
+0.47
+0.06
+155.31
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Ave Maria.mp3
+49
+0.79
+0.2
+0.4
+0.35
+0.03
+105
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Disappear.mp3
+46
+0.13
+0.21
+0.35
+0.49
+0.03
+78
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Diva.mp3
+65
+0.05
+0.86
+0.55
+0.88
+0.32
+146.09
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Ego.mp3
+57
+0.16
+0.49
+0.39
+0.62
+0.24
+79
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Halo.mp3
+77
+0.27
+0.47
+0.72
+0.51
+0.06
+79.98
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Hello.mp3
+48
+0.21
+0.42
+0.77
+0.33
+0.17
+98
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - If I Were A Boy.mp3
+67
+0.11
+0.43
+0.52
+0.63
+0.03
+90.01
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Radio.mp3
+44
+0.13
+0.55
+0.76
+0.61
+0.08
+136
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Satellites.mp3
+39
+0.73
+0.28
+0.15
+0.38
+0.03
+110
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Scared Of Lonely.mp3
+43
+0.05
+0.21
+0.58
+0.53
+0.05
+86.96
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Single Ladies (Put A Ring On It).mp3
+67
+0.04
+0.27
+0.58
+0.43
+0.3
+193.44
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Smash Into You.mp3
+47
+0.19
+0.1
+0.43
+0.57
+0.03
+95.07
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Sweet Dreams.mp3
+66
+0.09
+0.79
+0.83
+0.69
+0.11
+122
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - That's Why You're Beautiful.mp3
+38
+0.01
+0.1
+0.63
+0.55
+0.03
+115.04
+music/I Am... Sasha Fierce Deluxe Edition/Beyoncé - Video Phone.mp3
+49
+0.0
+0.61
+0.76
+0.48
+0.18
+84.77
+music/Jackpot/TheFatRat & Anjulie - Love It When You Hurt Me [Chapter 9].mp3
+47
+0.14
+0.55
+0.59
+0.83
+0.04
+116.03
+music/Jackpot/TheFatRat & Cecilia Gault - Escaping Gravity [Chapter Three].mp3
+57
+0.28
+0.61
+0.68
+0.78
+0.03
+91.02
+music/Jackpot/TheFatRat & Cecilia Gault - Our Song [Chapter 5].mp3
+46
+0.38
+0.28
+0.41
+0.81
+0.04
+96
+music/Jackpot/TheFatRat & Everen Maxwell - Warbringer (feat. Lindsey Stirling) [Chapter 7].mp3
+52
+0.1
+0.16
+0.65
+0.62
+0.03
+115.0
+music/Jackpot/TheFatRat & NEFFEX - Back One Day (Outro Song).mp3
+63
+0.06
+0.19
+0.66
+0.54
+0.04
+72.57
+music/Jackpot/TheFatRat & RIELL - Hiding In The Blue [Chapter 1].mp3
+55
+0.0
+0.46
+0.65
+0.62
+0.03
+75.05
+music/Jackpot/TheFatRat - Elegy (Jackpot EP Track 4).mp3
+43
+0.5
+0.38
+0.69
+0.5
+0.04
+174
+music/Jackpot/TheFatRat - Epic (Jackpot EP Track 2).mp3
+46
+0.29
+0.58
+0.6
+0.51
+0.07
+184
+music/Jackpot/TheFatRat - Hunger [Chapter Two].mp3
+55
+0.62
+0.16
+0.59
+0.57
+0.11
+172
+music/Jackpot/TheFatRat - Jackpot (Jackpot EP Track 1).mp3
+55
+0.07
+0.72
+0.87
+0.5
+0.05
+205.92
+music/Jackpot/TheFatRat - Monkeys.mp3
+54
+0.13
+0.64
+0.72
+0.78
+0.05
+109.93
+music/Jackpot/TheFatRat - Prelude (Jackpot EP Track 3).mp3
+45
+0.47
+0.72
+0.87
+0.75
+0.06
+113
+music/Jackpot/TheFatRat - Upwind [Chapter 4].mp3
+42
+0.06
+0.26
+0.84
+0.67
+0.03
+126.02
+music/Live in Cook County Jail/Every Day I Have The Blues.mp3
+36
+0.68
+0.68
+0.72
+0.57
+0.04
+105
+music/Live in Cook County Jail/How Blue Can You Get-.mp3
+46
+0.32
+0.6
+0.48
+0.5
+0.09
+110.54
+music/Live in Cook County Jail/Medley- 3 O'Clock Blues_Darlin' You Know I Love You.mp3
+25
+0.47
+0.49
+0.34
+0.51
+0.08
+104
+music/Live in Cook County Jail/Please Accept My Love.mp3
+24
+0.07
+0.43
+0.35
+0.48
+0.15
+110.83
+music/Live in Cook County Jail/Smokestack Lightnin'.mp3
+63
+0.84
+0.59
+0.34
+0.66
+0.04
+146
+music/Live in Cook County Jail/Sweet Sixteen.mp3
+33
+0.3
+0.66
+0.53
+0.52
+0.07
+112
+music/Live in Cook County Jail/The Thrill Is Gone.mp3
+64
+0.34
+0.54
+0.46
+0.55
+0.03
+90.77
+music/Live in Cook County Jail/Worry, Worry, Worry.mp3
+28
+0.43
+0.51
+0.31
+0.53
+0.2
+102.86
+music/Manic/3am.mp3
+55
+0.01
+0.54
+0.87
+0.39
+0.08
+190
+music/Manic/929.mp3
+48
+0.94
+0.62
+0.32
+0.64
+0.16
+150.15
+music/Manic/Alanis' Interlude.mp3
+47
+0.01
+0.45
+0.89
+0.71
+0.06
+94
+music/Manic/Ashley.mp3
+48
+0.14
+0.37
+0.53
+0.66
+0.08
+125
+music/Manic/Dominic's Interlude.mp3
+40
+0.78
+0.71
+0.37
+0.45
+0.03
+158.06
+music/Manic/Finally _ beautiful stranger.mp3
+59
+0.05
+0.12
+0.55
+0.63
+0.03
+133.98
+music/Manic/Forever ... (is a long time).mp3
+44
+0.75
+0.29
+0.27
+0.51
+0.03
+70.03
+music/Manic/Graveyard.mp3
+67
+0.23
+0.19
+0.58
+0.67
+0.07
+92.04
+music/Manic/I HATE EVERYBODY.mp3
+48
+0.14
+0.56
+0.2
+0.68
+0.03
+79.5
+music/Manic/More.mp3
+50
+0.64
+0.17
+0.22
+0.4
+0.12
+171
+music/Manic/SUGA's Interlude.mp3
+65
+0.09
+0.25
+0.73
+0.55
+0.11
+153.84
+music/Manic/Still Learning.mp3
+55
+0.04
+0.32
+0.66
+0.71
+0.05
+102.05
+music/Manic/Without Me.mp3
+84
+0.3
+0.53
+0.49
+0.75
+0.07
+136
+music/Manic/You should be sad.mp3
+73
+0.14
+0.32
+0.59
+0.59
+0.03
+110.94
+music/Manic/clementine.mp3
+46
+0.89
+0.48
+0.44
+0.53
+0.16
+143
+music/Manic/killing boys.mp3
+54
+0.24
+0.68
+0.9
+0.69
+0.19
+139.99
+music/Metallica/Metallica - Don't Tread On Me.mp3
+59
+0.01
+0.68
+0.88
+0.66
+0.05
+108.02
+music/Metallica/Metallica - Enter Sandman.mp3
+78
+0.0
+0.62
+0.83
+0.57
+0.03
+123.3
+music/Metallica/Metallica - My Friend Of Misery.mp3
+52
+0.0
+0.33
+0.86
+0.57
+0.04
+119.51
+music/Metallica/Metallica - Of Wolf And Man.mp3
+54
+0.0
+0.47
+0.79
+0.61
+0.04
+121.77
+music/Metallica/Metallica - Sad But True.mp3
+68
+0.0
+0.45
+0.88
+0.62
+0.03
+89.24
+music/Metallica/Metallica - The God That Failed.mp3
+52
+0.0
+0.43
+0.81
+0.55
+0.04
+83.05
+music/Metallica/Metallica - The Struggle Within.mp3
+48
+0.0
+0.51
+0.94
+0.47
+0.05
+98.77
+music/Metallica/Metallica - The Unforgiven 1.mp3
+59
+0.0
+0.25
+0.88
+0.49
+0.04
+133
+music/Metallica/Metallica - Through The Never.mp3
+53
+0.01
+0.48
+0.95
+0.38
+0.05
+94.27
+music/Metallica/Metallica - Wherever I May Roam.mp3
+66
+0.0
+0.34
+0.83
+0.54
+0.04
+131.38
+music/Moanin' in the Moonlight/All Night Boogie (All Night Long).mp3
+25
+0.98
+0.96
+0.38
+0.47
+0.06
+98.14
+music/Moanin' in the Moonlight/Baby How Long.mp3
+29
+0.49
+0.77
+0.51
+0.62
+0.05
+130.97
+music/Moanin' in the Moonlight/Evil (Is Going On).mp3
+41
+0.76
+0.73
+0.26
+0.5
+0.19
+159.61
+music/Moanin' in the Moonlight/Forty Four.mp3
+35
+0.74
+0.59
+0.44
+0.76
+0.03
+140.14
+music/Moanin' in the Moonlight/How Many More Years.mp3
+43
+0.93
+0.74
+0.64
+0.66
+0.09
+110.54
+music/Moanin' in the Moonlight/I Asked For Water.mp3
+29
+0.98
+0.39
+0.15
+0.7
+0.04
+110.75
+music/Moanin' in the Moonlight/I'm Leavin You.mp3
+27
+0.9
+0.76
+0.44
+0.69
+0.04
+110.95
+music/Moanin' in the Moonlight/Moanin' At Midnight.mp3
+41
+0.88
+0.76
+0.51
+0.36
+0.05
+93.47
+music/Moanin' in the Moonlight/Moanin' For My Baby.mp3
+27
+0.92
+0.54
+0.45
+0.44
+0.03
+145.59
+music/Moanin' in the Moonlight/No Place To Go (You Gonna Wreck My Life).mp3
+28
+0.57
+0.75
+0.18
+0.71
+0.04
+135.75
+music/Moanin' in the Moonlight/Somebody In My Home.mp3
+25
+0.78
+0.55
+0.25
+0.64
+0.04
+111.57
+music/Nevermind/Breed.mp3
+66
+0.0
+0.26
+0.97
+0.26
+0.09
+158.43
+music/Nevermind/Come As You Are.mp3
+78
+0.0
+0.54
+0.82
+0.5
+0.04
+120.13
+music/Nevermind/Drain You.mp3
+63
+0.0
+0.2
+0.93
+0.33
+0.07
+133.36
+music/Nevermind/Endless, Nameless.mp3
+50
+0.0
+0.06
+0.96
+0.27
+0.13
+131.85
+music/Nevermind/Lithium.mp3
+73
+0.0
+0.49
+0.66
+0.68
+0.04
+123.21
+music/Nevermind/Lounge Act.mp3
+59
+0.0
+0.46
+0.96
+0.34
+0.11
+152.19
+music/Nevermind/On A Plain.mp3
+55
+0.0
+0.36
+0.95
+0.43
+0.1
+133.26
+music/Nevermind/Polly.mp3
+58
+0.88
+0.54
+0.38
+0.83
+0.06
+121.12
+music/Nevermind/Smells Like Teen Spirit.mp3
+80
+0.0
+0.72
+0.91
+0.5
+0.06
+116.76
+music/Nevermind/Something In The Way.mp3
+72
+0.75
+0.07
+0.2
+0.43
+0.03
+105.22
+music/Nevermind/Stay Away.mp3
+56
+0.0
+0.21
+0.98
+0.37
+0.13
+165.21
+music/Nevermind/Territorial Pissings.mp3
+57
+0.0
+0.11
+0.98
+0.29
+0.18
+182.7
+music/Nine Track Mind/As You Are (feat. Shy Carter).mp3
+34
+0.36
+0.7
+0.52
+0.82
+0.04
+113.95
+music/Nine Track Mind/Dangerously.mp3
+62
+0.36
+0.23
+0.52
+0.7
+0.04
+112
+music/Nine Track Mind/Does It Feel.mp3
+41
+0.18
+0.55
+0.86
+0.61
+0.13
+99.0
+music/Nine Track Mind/Left Right Left.mp3
+38
+0.21
+0.49
+0.71
+0.7
+0.03
+100
+music/Nine Track Mind/Losing My Mind.mp3
+35
+0.76
+0.16
+0.5
+0.71
+0.06
+100
+music/Nine Track Mind/My Gospel.mp3
+39
+0.27
+0.49
+0.65
+0.7
+0.3
+112.04
+music/Nine Track Mind/Nothing But Trouble (Instagram Models) (Dance Remix).mp3
+25
+0.01
+0.7
+0.81
+0.68
+0.04
+122.98
+music/Nine Track Mind/One Call Away.mp3
+67
+0.4
+0.47
+0.61
+0.67
+0.03
+91.02
+music/Nine Track Mind/River.mp3
+43
+0.84
+0.25
+0.33
+0.78
+0.03
+100
+music/Nine Track Mind/See You Again (feat. Charlie Puth).mp3
+84
+0.37
+0.28
+0.48
+0.69
+0.08
+80.03
+music/Nine Track Mind/Some Type of Love.mp3
+42
+0.39
+0.37
+0.6
+0.7
+0.09
+90.5
+music/Nine Track Mind/Suffer.mp3
+46
+0.75
+0.58
+0.44
+0.58
+0.05
+176
+music/Nine Track Mind/Then There's You.mp3
+34
+0.06
+0.3
+0.71
+0.58
+0.04
+98
+music/Nine Track Mind/Up All Night.mp3
+36
+0.55
+0.47
+0.65
+0.65
+0.03
+82
+music/Nine Track Mind/We Don't Talk Anymore (feat. Selena Gomez).mp3
+71
+0.62
+0.35
+0.56
+0.73
+0.13
+100.02
+music/Red Pills Blue/Daylight (Live In Manchester).mp3
+63
+0
+0.33
+0.68
+0.66
+0.03
+120
+music/Red Pills Blue/Girls Like You.mp3
+66
+0.57
+0.45
+0.54
+0.85
+0.05
+125
+music/Red Pills Blue/Maroon 5, Julia Michaels - Help Me Out ft. Julia Michaels (Audio).mp3
+42
+0.46
+0.54
+0.56
+0.93
+0.06
+115
+music/Red Pills Blue/Moves Like Jagger (Live In Manchester).mp3
+58
+0.01
+0.61
+0.75
+0.72
+0.05
+128
+music/Red Pills Blue/Stereo Hearts (Live In Manchester).mp3
+20
+0.34
+0.55
+0.76
+0.62
+0.04
+90
+music/Red Pills Blue/This Love (Live In Manchester).mp3
+83
+0.05
+0.81
+0.86
+0.71
+0.04
+95
+music/Thank Me Later/Drake -Best I Ever Had- (Thank Me Later).mp3
+80
+0.19
+0.56
+0.92
+0.4
+0.38
+162.36
+music/Thank Me Later/Drake -Cece Interlude- (Thank Me Later).mp3
+48
+0.05
+0.23
+0.6
+0.47
+0.03
+94.98
+music/Thank Me Later/Drake -Fancy' (Thank Me Later).mp3
+73
+0.33
+0.28
+0.88
+0.53
+0.46
+87.19
+music/Thank Me Later/Drake -Find Your Love- (Thank Me Later).mp3
+69
+0.02
+0.76
+0.61
+0.63
+0.17
+96.04
+music/Thank Me Later/Drake -Fireworks- (Thank Me Later).mp3
+57
+0.43
+0.53
+0.76
+0.55
+0.35
+89
+music/Thank Me Later/Drake -Karaoke- (Thank Me Later).mp3
+53
+0.01
+0.95
+0.65
+0.76
+0.12
+151.01
+music/Thank Me Later/Drake -Light Up- (Thank Me Later).mp3
+53
+0.09
+0.2
+0.91
+0.47
+0.45
+172.92
+music/Thank Me Later/Drake -Miss Me- (Thank Me Later).mp3
+62
+0.08
+0.33
+0.86
+0.43
+0.6
+100.3
+music/Thank Me Later/Drake -Over- (Thank Me Later).mp3
+73
+0.01
+0.45
+0.85
+0.35
+0.2
+100
+music/Thank Me Later/Drake -Show Me A Good Time- (Thank Me Later).mp3
+58
+0.04
+0.7
+0.73
+0.67
+0.12
+128.32
+music/Thank Me Later/Drake -Shut It Down- (Thank Me Later).mp3
+59
+0.41
+0.4
+0.43
+0.59
+0.07
+119.91
+music/Thank Me Later/Drake -Thank Me Now- (Thank Me Later).mp3
+51
+0.28
+0.75
+0.77
+0.5
+0.43
+71.3
+music/Thank Me Later/Drake -The -Resistance- (Thank Me Later).mp3
+63
+0.82
+0.64
+0.74
+0.55
+0.16
+82.59
+music/Thank Me Later/Drake -Up All Night- (Thank Me Later).mp3
+67
+0.01
+0.28
+0.81
+0.61
+0.28
+156.35
+music/The Marshall Matthers LP 2/Eminem - Baby.mp3
+46
+0.58
+0.83
+0.89
+0.78
+0.34
+94
+music/The Marshall Matthers LP 2/Eminem - Bad Guy.mp3
+56
+0.06
+0.36
+0.8
+0.61
+0.45
+81
+music/The Marshall Matthers LP 2/Eminem - Beautiful Pain Ft. Sia.mp3
+63
+0.06
+0.4
+0.82
+0.69
+0.46
+165
+music/The Marshall Matthers LP 2/Eminem - Berzerk.mp3
+65
+0.02
+0.68
+0.87
+0.74
+0.33
+95.08
+music/The Marshall Matthers LP 2/Eminem - Brainless.mp3
+51
+0.19
+0.59
+0.94
+0.7
+0.39
+172.09
+music/The Marshall Matthers LP 2/Eminem - Desperation Ft. Jamie N Commons.mp3
+46
+0.18
+0.66
+0.92
+0.71
+0.25
+143.99
+music/The Marshall Matthers LP 2/Eminem - Evil Twin.mp3
+48
+0.05
+0.78
+0.91
+0.65
+0.36
+83
+music/The Marshall Matthers LP 2/Eminem - Groundhog Day.mp3
+46
+0.32
+0.56
+0.79
+0.74
+0.24
+82
+music/The Marshall Matthers LP 2/Eminem - Headlights Ft. Nate Ruess.mp3
+60
+0.15
+0.45
+0.78
+0.69
+0.16
+146.32
+music/The Marshall Matthers LP 2/Eminem - Legacy.mp3
+60
+0.28
+0.53
+0.9
+0.66
+0.47
+164
+music/The Marshall Matthers LP 2/Eminem - Love Game Ft. Kendrick Lamar.mp3
+53
+0.36
+0.71
+0.94
+0.77
+0.18
+106
+music/The Marshall Matthers LP 2/Eminem - Rap God.mp3
+78
+0.4
+0.63
+0.84
+0.71
+0.31
+148.14
+music/The Marshall Matthers LP 2/Eminem - Rhyme or Reason.mp3
+51
+0.13
+0.6
+0.84
+0.85
+0.24
+116.93
+music/The Marshall Matthers LP 2/Eminem - So Far....mp3
+50
+0.2
+0.71
+0.93
+0.85
+0.37
+98
+music/The Marshall Matthers LP 2/Eminem - So Much Better.mp3
+50
+0.25
+0.62
+0.86
+0.72
+0.25
+84
+music/The Marshall Matthers LP 2/Eminem - Stronger Than I Was.mp3
+51
+0.12
+0.32
+0.6
+0.78
+0.11
+122.0
+music/The Marshall Matthers LP 2/Eminem - Survival.mp3
+63
+0.0
+0.44
+0.90
+0.46
+0.21
+176
+music/The Marshall Matthers LP 2/Eminem - The Monster Ft. Rihanna.mp3
+80
+0.05
+0.62
+0.85
+0.78
+0.07
+110
+music/The Marshall Matthers LP 2/Eminem - Wicked Ways.mp3
+50
+0.05
+0.13
+0.79
+0.71
+0.4
+138
+music/This Is Acting/01 Bird Set Free.mp3
+66
+0.01
+0.31
+0.81
+0.44
+0.07
+150.17
+music/This Is Acting/02 Alive.mp3
+63
+0.25
+0.44
+0.76
+0.51
+0.05
+100
+music/This Is Acting/03 One Million Bullets.mp3
+47
+0.1
+0.2
+0.72
+0.37
+0.05
+171.83
+music/This Is Acting/04 Move Your Body.mp3
+78
+0.08
+0.4
+0.79
+0.64
+0.09
+128
+music/This Is Acting/05 Unstoppable.mp3
+82
+0.11
+0.26
+0.78
+0.47
+0.08
+173.8
+music/This Is Acting/06 Cheap Thrills.mp3
+71
+0.05
+0.73
+0.7
+0.63
+0.11
+89.98
+music/This Is Acting/07 Reaper.mp3
+50
+0.04
+0.73
+0.77
+0.57
+0.05
+83
+music/This Is Acting/08 House On Fire.mp3
+50
+0.0
+0.25
+0.78
+0.52
+0.05
+180
+music/This Is Acting/09 Footprints.mp3
+47
+0.03
+0.19
+0.76
+0.65
+0.03
+93
+music/This Is Acting/10 Sweet Design.mp3
+42
+0.02
+0.9
+0.93
+0.78
+0.19
+103.98
+music/This Is Acting/11 Broken Glass.mp3
+47
+0.01
+0.4
+0.92
+0.41
+0.07
+154
+music/This Is Acting/12 Space Between.mp3
+43
+0.68
+0.11
+0.5
+0.24
+0.04
+101
+music/This Is Acting/13 First Fighting a Sandstorm.mp3
+48
+0.89
+0.21
+0.38
+0.41
+0.03
+129
+music/This Is Acting/14 Summer Rain.mp3
+57
+0.22
+0.41
+0.56
+0.51
+0.03
+130
+music/V/Animals.mp3
+81
+0.0
+0.33
+0.74
+0.28
+0.09
+189.87
+music/V/Coming Back For You.mp3
+48
+0.01
+0.39
+0.87
+0.64
+0.03
+115
+music/V/Feelings.mp3
+57
+0.0
+0.75
+0.73
+0.69
+0.07
+122
+music/V/In Your Pocket.mp3
+49
+0.03
+0.43
+0.84
+0.62
+0.05
+126
+music/V/It Was Always You.mp3
+58
+0.08
+0.3
+0.77
+0.61
+0.04
+103.95
+music/V/Leaving California.mp3
+50
+0.28
+0.27
+0.7
+0.5
+0.03
+97.04
+music/V/Maps.mp3
+86
+0.02
+0.88
+0.71
+0.74
+0.03
+120.03
+music/V/New Love.mp3
+46
+0.01
+0.82
+0.89
+0.63
+0.08
+165
+music/V/Shoot Love.mp3
+34
+0.0
+0.43
+0.8
+0.6
+0.04
+135.0
+music/V/Sugar.mp3
+83
+0.06
+0.88
+0.79
+0.75
+0.03
+120
+music/V/Unkiss Me.mp3
+51
+0.01
+0.11
+0.6
+0.53
+0.03
+130.02
+music/Warrior Songs/TheFatRat & Anjulie - Close To The Sun.mp3
+62
+0.37
+0.36
+0.88
+0.66
+0.04
+88.96
+music/Warrior Songs/TheFatRat & Maisy Kay - The Storm (Official Music Video).mp3
+62
+0.27
+0.4
+0.74
+0.68
+0.03
+94.0
+music/Warrior Songs/TheFatRat - Fly Away.mp3
+69
+0.59
+0.21
+0.58
+0.60
+0.04
+148
+music/Warrior Songs/TheFatRat - MAYDAY feat. Laura Brehm.mp3
+58
+0.01
+0.13
+0.56
+0.42
+0.03
+150
+music/Warrior Songs/TheFatRat - Monody (feat. Laura Brehm).mp3
+65
+0.11
+0.22
+0.69
+0.53
+0.04
+106.99
+music/Warrior Songs/TheFatRat - Never Be Alone.mp3
+57
+0.22
+0.26
+0.63
+0.72
+0.03
+132
+music/Warrior Songs/TheFatRat - No No No.mp3
+55
+0.35
+0.49
+0.65
+0.57
+0.03
+148
+music/Warrior Songs/TheFatRat - Oblivion (feat. Lola Blanc).mp3
+51
+0.04
+0.34
+0.88
+0.74
+0.04
+124
+music/Warrior Songs/TheFatRat - Rise Up (Lyrics).mp3
+70
+0.25
+0.58
+0.69
+0.61
+0.09
+164
+music/Warrior Songs/TheFatRat - The Calling (Lyrics) feat. Laura Brehm.mp3
+59
+0.42
+0.11
+0.5
+0.67
+0.03
+59
+music/Warrior Songs/TheFatRat - Time Lapse.mp3
+56
+0.0
+0.56
+0.85
+0.64
+0.11
+127.0
+music/Warrior Songs/TheFatRat - Unity.mp3
+65
+0.0
+0.57
+0.88
+0.71
+0.03
+105.0
+music/Warrior Songs/TheFatRat - Windfall.mp3
+54
+0.05
+0.4
+0.85
+0.65
+0.03
+102.0
+music/Warrior Songs/TheFatRat - Xenogenesis (Outro Song).mp3
+63
+0.03
+0.09
+0.61
+0.54
+0.03
+145.05
