@@ -1,6 +1,6 @@
 # Origami Musica
 ### Origami Musica Music Player in Ruby.
-This program is created in Procedural Programming with Ruby. This is my project for an unit during my undergraduate period. 
+This program is created in Procedural Programming with Ruby by Viet Hoang Pham. This is my project for an unit during my undergraduate period. 
 You can access reports folder to read more about the program or watch the following videos:
 
 Short-Version Video (5 mins, no explaination): 
