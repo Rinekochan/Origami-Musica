@@ -1,14 +1,14 @@
 # Origami Musica
-### Origami Musica Music Player in Ruby.
-This program is created in Procedural Programming with Ruby using Gosu library by Viet Hoang Pham. This is my project for an unit during my undergraduate program. 
+### Origami Musica - Basic Music Player in Ruby.
+This program is created in Procedural Programming with Ruby using Gosu library by Viet Hoang Pham. This is my project for an unit (Introduction To Programming) during my undergraduate program. 
 
 ### Music Player Functionalities (more details in reports folder):
--	**Categories Bar:** Users can interact with the categories bar to filter albums based on their selected genres/artists/decades.
+-	**Categories:** Users can interact with the categories bar to filter albums based on their selected genres/artists/decades.
 -	**Albums Display:** The Home Page will display available albums, and the ability to scroll through all albums by clicking on the arrow at the top right. There are a maximum of 4 albums on each page.
 -	**Create Playlist:** The user can type a name when they want to create a new playlist.
 -	**Tracks Display:** This page will display all available tracks in the album, and the ability to scroll through all tracks by clicking on the arrows at the top right. There are a maximum of 8 tracks on each page.
--	**Add to Playlist:** When the user hovers over a track, they will see “Add to Playlist”, by clicking on that, they will see this Page:
--	**Add Tracks To Playlist:** The user can either cancel or add track to the playlist. After adding a track to the playlist, there will be a notification box appear:
+-	**Add to Playlist:** When the user hovers over a track, they can click on “Add to Playlist”.
+-	**Add Tracks To Playlist:** The user can either cancel or add track to the playlist. After adding a track to the playlist, there will be a notification box appear.
 -	**Notification Box**: When a user interaction needs to be notified, the notification box will appear and automatically close in 5 seconds.
 -	**Tracks Display:** This page will display all tracks in the selected playlist, and the ability to scroll through all tracks by clicking on the arrows at the top right. There are a maximum of 8 tracks on each page.
 -	**Some Playlist Operations (Delete Playlist, Delete Track From Playlist, Rename Playlist, …)** will be documented in the Playlist Operations in Origami Musica Functionalities.
