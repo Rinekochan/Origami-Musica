@@ -18,7 +18,7 @@ This program is created using Ruby with Gosu library by Viet Hoang Pham. This is
 -	**Smooth-Transition Playlist Generation:** After the initial playlists or personalized playlists have been created, the program performs the last step that reorders the track's position in the playlist making the tracks transition in the playlist as smooth as possible by using Greedy and Genetics Algorithm to solve the Open Travelling Salesman problem to order it based on valence, danceability, ... 
 -	**Save the generated playlist to playlist libraries:** The user can save these generated playlists into their playlist libraries.
 
-### You can access reports folder to read more about the program or watch the following videos:
+### Walkthrough videos
 [Short-Version Video (5 mins, no explaination)](https://drive.google.com/file/d/18P8v_e14zT99Q7gjewNO5JHIDiBcdO9n/view?usp=drive_link)
 
 [Long-Version Video (28 mins, speed up)](https://drive.google.com/file/d/1DnxV169BNHJivuwf03-nTw7p60VXRCmz/view?usp=drive_link)
