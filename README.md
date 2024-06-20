@@ -2,7 +2,7 @@
 ### Origami Musica - Basic Music Player in Ruby.
 This program is created using Ruby with Gosu library by Viet Hoang Pham. This is my project for an unit (Introduction To Programming) during my undergraduate program. 
 
-### Music Player Functionalities (more details in reports folder):
+### Music Player Functionalities:
 -	**Categories:** Users can interact with the categories bar to filter albums based on their selected genres/artists/decades.
 -	**Albums Display:** The Home Page will display available albums, and the ability to scroll through all albums by clicking on the arrow at the top right. There are a maximum of 4 albums on each page.
 -	**Create Playlist:** The user can type a name when they want to create a new playlist.
