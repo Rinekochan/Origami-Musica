@@ -1,4 +1,6 @@
 # Origami Musica
+Please contact me if you want a detailed report via viethoang9314@gmail.com
+
 ### Origami Musica - Basic Music Player in Ruby.
 This program is created using Ruby with Gosu library by Viet Hoang Pham. This is my project for an unit (Introduction To Programming) during my undergraduate program. 
 
