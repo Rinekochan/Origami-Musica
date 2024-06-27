@@ -4,6 +4,11 @@ Please contact me if you want a detailed report via viethoang9314@gmail.com
 ### Origami Musica - Music Player in Ruby.
 This program is created using Ruby with Gosu library by Viet Hoang Pham. This is my project for an unit (Introduction To Programming) during my undergraduate program. 
 
+### Walkthrough videos
+[Short-Version Video (5 mins, no explaination)](https://drive.google.com/file/d/18P8v_e14zT99Q7gjewNO5JHIDiBcdO9n/view?usp=drive_link)
+
+[Long-Version Video (28 mins, speed up, recommend 0.75x)](https://drive.google.com/file/d/1DnxV169BNHJivuwf03-nTw7p60VXRCmz/view?usp=drive_link)
+
 ### Music Player Functionalities:
 -	**Categories:** Users can interact with the categories bar to filter albums based on their selected genres/artists/decades.
 -	**Albums Display:** The Home Page will display available albums, and the ability to scroll through all albums by clicking on the arrow at the top right. There are a maximum of 4 albums on each page.
@@ -19,8 +24,3 @@ This program is created using Ruby with Gosu library by Viet Hoang Pham. This is
 -	**Personalized Generation Playlists:** By tracking user interactions history and storing it in historyinteractions.txt, the playlists will be generated based on the most interactions genres, artists, decades, and audio features, …. The user can also choose their preferences for the playlist. 
 -	**Smooth-Transition Playlist Generation:** After the initial playlists or personalized playlists have been created, the program performs the last step that reorders the track's position in the playlist making the tracks transition in the playlist as smooth as possible by using Greedy and Genetics Algorithm to solve the Open Travelling Salesman problem to order it based on valence, danceability, ... 
 -	**Save the generated playlist to playlist libraries:** The user can save these generated playlists into their playlist libraries.
-
-### Walkthrough videos
-[Short-Version Video (5 mins, no explaination)](https://drive.google.com/file/d/18P8v_e14zT99Q7gjewNO5JHIDiBcdO9n/view?usp=drive_link)
-
-[Long-Version Video (28 mins, speed up)](https://drive.google.com/file/d/1DnxV169BNHJivuwf03-nTw7p60VXRCmz/view?usp=drive_link)
