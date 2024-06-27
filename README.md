@@ -5,9 +5,8 @@ Please contact me if you want a detailed report via viethoang9314@gmail.com
 This program is created using Ruby with Gosu library by Viet Hoang Pham. This is my project for an unit (Introduction To Programming) during my undergraduate program. 
 
 ### Walkthrough videos
-[Short-Version Video (5 mins, no explaination)](https://drive.google.com/file/d/18P8v_e14zT99Q7gjewNO5JHIDiBcdO9n/view?usp=drive_link)
+[Video (5 mins)](https://drive.google.com/file/d/18P8v_e14zT99Q7gjewNO5JHIDiBcdO9n/view?usp=drive_link)
 
-[Long-Version Video (28 mins, speed up, recommend 0.75x)](https://drive.google.com/file/d/1DnxV169BNHJivuwf03-nTw7p60VXRCmz/view?usp=drive_link)
 
 ### Music Player Functionalities:
 -	**Categories:** Users can interact with the categories bar to filter albums based on their selected genres/artists/decades.
